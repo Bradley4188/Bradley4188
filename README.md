@@ -1,5 +1,5 @@
 👋 Hi, I'm Bradley Fernandes!
-💻 Cybersecurity Enthusiast | IT Professional | Problem Solver
+💻 Cybersecurity Enthusiast | IT Passionate | Problem Solver
 
 Welcome to my GitHub! I'm a passionate cybersecurity professional with a background in IT support and system administration. I thrive on securing systems, automating processes, and exploring the latest in threat detection and endpoint protection.
 
@@ -19,10 +19,15 @@ Feel free to explore my repositories, and let's connect!
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Skill                                                                                     |
+|------------------------------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis                                                     |
+| Network Traffic Monitoring and Attack Detection                                           |
+| Security Automation with Shuffle SOAR                                                    |
+| Troubleshooting Microsoft 365, Active Directory, and Network Issues                       |
+| User Account and Group Policy Management                                                  |
+| Remote Support (RDP, SSH, TeamViewer)                                                    |
+| Hardware and Software Installation/Configuration                                          |
 
 
 ## Tools
