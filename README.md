@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm a passionate cybersecurity professional with a backgro
 
 Azure Security (Sentinel, Intune, Entra ID)
 
-Network protection with SonicWall and Sophos
+SIEM Tools – Azure Sentinel, Splunk
 
-Endpoint security and MDM solutions
+EDR – LimaCharlie
 
-Phishing detection and SIEM configuration
+SOAR – Shuffle
 
 🚀 I enjoy working on personal projects that simulate real-world scenarios, from setting up secure networks to automating user management in Active Directory. My goal is to combine my technical expertise with a proactive security mindset to protect and strengthen IT infrastructures.
 
