@@ -34,6 +34,7 @@ Feel free to explore my repositories, and let's connect!
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge" /> </div>
 </div>
 
 ### SIEM
@@ -42,14 +43,16 @@ Feel free to explore my repositories, and let's connect!
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### SOAR
+<div>
+ <img src="https://img.shields.io/badge/-Shuffle-000000?&style=for-the-badge" /> 
+</div>
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
